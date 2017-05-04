@@ -1,4 +1,4 @@
-#HSLIDE
+#HSLIDE?image=assets/wild-west.jpg
 
 ## Continuous Integration and Delivery
 ### Without the Wild West
