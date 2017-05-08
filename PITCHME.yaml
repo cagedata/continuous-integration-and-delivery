@@ -1,3 +1,4 @@
 ---
 logo: http://cdn.cageops.com/logo.svg
 theme: night
+theme-override: assets/PITCHME.css
